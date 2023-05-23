@@ -18,6 +18,7 @@ Assets/Screen Shot 2023-05-22 at 23.07.10.png
 
 Come see my page! 
 https://bryce-lingle.github.io/Crushing-JS-Using-Challenging-Password/
+file:///Users/brycelingle/bootcamp/class-challenges/Crushing-JS-Using-Challenging-Password/Develop/index.html
 
 Github Repository Link: 
 https://github.com/Bryce-Lingle/Crushing-JS-Using-Challenging-Password
